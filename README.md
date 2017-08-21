@@ -1,6 +1,14 @@
 # Ephemeral
 ### Blog with expiration
-A fleeting platform for blogging in the moment.
+A platform for blogging in the moment.
+
+## Uses
+Ephemeral, an open source, index- and copy-resistant blogging platform that allows users to blog with an expiration date. 
+
+This has many use cases:
+ * Time-sensitive press releases
+ * Secure, trusted public communication (posts will be hashed with private keys)
+ * Blogging when freedom of speech is oppressed
 
 ## Goals
 1. The goal of this platform is simple: create a blogging platform that will *automatically expire old posts*.
