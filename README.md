@@ -11,8 +11,9 @@ This has many use cases:
  * Blogging when freedom of speech is oppressed
 
 ## Goals
-1. The goal of this platform is simple: create a blogging platform that will *automatically expire old posts*.
-2. A fast, simple, and reliable blogging experience.
-3. Built on the Markdown standard.
-4. Easily modifiable.
-5. Easily styled.
+The goal of this platform is simple: 
+1. Create a blogging platform that will *automatically expire old posts*
+2. A fast, simple, and reliable blogging experience
+3. Secure public communication through the use of private/public keys and hashed content
+3. Built on the Markdown standard
+4. Easily modifiable, easily styled
