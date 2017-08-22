@@ -20,4 +20,4 @@ The goal of this platform is simple:
 
 ## Development
 We use [Browserstack](http://browserstack.com) to aid our development
-![Browserstack](https://d98b8t1nnulk5.cloudfront.net/production/images/static/header/header-logo.svg)
+![Browserstack](https://github.com/xondak/ephemeral/blob/master/Logo-01.svg)
