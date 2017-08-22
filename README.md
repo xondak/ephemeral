@@ -19,5 +19,6 @@ The goal of this platform is simple:
 4. Easily modifiable, easily styled
 
 ## Development
-We use [Browserstack](http://browserstack.com) to aid our development
+We use [Browserstack](http://browserstack.com) to aid our development.
+
 ![Browserstack](https://github.com/xondak/ephemeral/blob/master/browserstack-logo.png?raw=true)
