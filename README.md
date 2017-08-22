@@ -20,4 +20,4 @@ The goal of this platform is simple:
 
 ## Development
 We use [Browserstack](http://browserstack.com) to aid our development
-![Browserstack](https://raw.githubusercontent.com/ephemeral/Logo-01.svg)
+![Browserstack](https://github.com/xondak/ephemeral/blob/master/browserstack-logo.png?raw=true)
