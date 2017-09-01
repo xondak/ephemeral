@@ -21,11 +21,14 @@
 
         <header>
             <nav>
-                <?php include 'parts/nav.php' ?>
+                <?php include_once 'parts/nav.php' ?>
             </nav>
         </header>
 
-        <?php include 'parts/engine.php' ?>
+        <?php
+            include 'parts/engine.php';
+            include 'parts/footer.php';
+        ?>
 
         <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
