@@ -22,3 +22,7 @@ The goal of this platform is simple:
 We use [Browserstack](http://browserstack.com) to aid our development.
 
 ![Browserstack](https://github.com/xondak/ephemeral/blob/master/browserstack-logo.png?raw=true)
+
+## Requires
+
+Our aim is to have no requirements beyond a server running PHP 5.5. That means no jquery, no Javascript libraries, no plugins.
